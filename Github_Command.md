@@ -81,7 +81,3 @@ git remote set-url origin <url>  # Change remote URL
 ```
 
 ---
-
-Nếu mày đang học để đi thực tập hoặc làm dự án nhóm thì mấy lệnh này đủ xài thoải mái. Cần cheat sheet hay visual hướng dẫn thì tao cũng có nha 😎
-
-Muốn tao chia theo **workflow thực tế** (ví dụ: tạo project, tạo branch, push/pull, làm việc nhóm...) không?
