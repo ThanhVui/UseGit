@@ -3,7 +3,7 @@
 # Github Command
 ---
 
-### 🔧 **Khởi tạo & Cấu hình ban đầu**
+### 🔧 **Initialize & Configuration**
 ```bash
 git init                      # Initialize a new Git repository
 git config --global user.name "Your Name"
