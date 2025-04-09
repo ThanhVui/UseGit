@@ -82,4 +82,10 @@ git remote add origin <url>      # Add remote
 git remote set-url origin <url>  # Change remote URL
 ```
 
+### 🔗 **Remote file .git**
+```bash
+rm -rf .git
+```
+
 ---
+
