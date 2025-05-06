@@ -89,3 +89,9 @@ rm -rf .git
 
 ---
 
+### 🔗 **Bật chế độ hỗ trợ đường dẫn dài trong Git**
+```bash
+git config --system core.longpaths true
+```
+
+---
